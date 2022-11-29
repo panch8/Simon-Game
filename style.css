@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: bisque;
+  font-family: "Press Start 2P", cursive;
+}
+h1 {
+  font-size: 3rem;
+  margin: 80px 10px 40px;
+}
+h3 {
+  font-size: 1rem;
+  padding: 0 15%;
+  margin-bottom: 80px;
+}
+footer {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  margin-bottom: 20px;
+  padding: 7% 15%;
+}
+.you-lose {
+  background-color: dimgray;
+}
+.container-fluid {
+  margin: auto 0;
+}
+.btn {
+  border: solid;
+  border-radius: 15px;
+  border-width: 5px;
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+}
+.btn-pressed {
+  border-color: white;
+}
+
+.red {
+  background-color: red;
+}
+.red:hover {
+  background-color: red;
+  border: none;
+}
+.yellow {
+  background-color: yellow;
+}
+.yellow:hover {
+  background-color: yellow;
+  border: none;
+}
+.blue {
+  background-color: blue;
+}
+.blue:hover {
+  background-color: blue;
+  border: none;
+}
+.green {
+  background-color: green;
+}
+.green:hover {
+  background-color: green;
+  border: none;
+}
+
+.fa-icon {
+  margin: 0 15px 40px;
+  font-size: 1.5rem;
+}
+.fa-icon:hover {
+  /* margin: 0 15px 40px; */
+  font-size: 1.75rem;
+}
